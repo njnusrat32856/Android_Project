@@ -21,30 +21,29 @@ To create this application, you need to use Android Studio IDE for the platform 
 
 ## Child Care application interface:
 
-📌 Welcome Page:
-![welcome](https://github.com/user-attachments/assets/789a2775-1455-470c-ade2-6243ac525924)
-📌 Login Page:
-![login](https://github.com/user-attachments/assets/d7d740de-8f0e-4456-937f-da2ffdf483e5)
-📌 Register Page:
-![register](https://github.com/user-attachments/assets/be796069-e657-45aa-8cb1-e051a059ece7)
-📌 Child Age Picker Page:
-![age picker](https://github.com/user-attachments/assets/d37ee6f5-59ae-4a42-b344-d362a3df1e49)
-📌 Dashboard Page:
-![dashboard](https://github.com/user-attachments/assets/31b7f2b4-df67-4483-859f-3d6ba3d524e6)
-📌 Health Care Page:
-![health care](https://github.com/user-attachments/assets/c5e49b79-3fd4-4331-8570-d0b318e0b443)
-📌 Fever Details Page:
-![fever page](https://github.com/user-attachments/assets/37d8add5-5d24-4f3c-8a1d-22800a6a868c)
-📌 Vaccine Page:
-![vaccine page](https://github.com/user-attachments/assets/eef00119-2c26-4c07-a84d-67b443d2eb1c)
-📌 Guide Page:
-![guide page](https://github.com/user-attachments/assets/cab9c451-8541-420c-8484-785c6d5cdb18)
-📌 Sleep Music Page:
-![sleep music](https://github.com/user-attachments/assets/dd97a81c-31d2-4162-b540-3d38b51a2627)
-📌 Baby Game Page:
-![baby game](https://github.com/user-attachments/assets/c7708b13-93b4-4e8a-8aa1-b18cc490b1f7)
-📌 Food Page:
-![food page](https://github.com/user-attachments/assets/87bdbdce-a047-4b7b-8985-a38c4c9b621c)
+📌 Welcome Page: ![welcome](https://github.com/user-attachments/assets/789a2775-1455-470c-ade2-6243ac525924)
+
+📌 Login Page: ![login](https://github.com/user-attachments/assets/d7d740de-8f0e-4456-937f-da2ffdf483e5)
+
+📌 Register Page: ![register](https://github.com/user-attachments/assets/be796069-e657-45aa-8cb1-e051a059ece7)
+
+📌 Child Age Picker Page: ![age picker](https://github.com/user-attachments/assets/d37ee6f5-59ae-4a42-b344-d362a3df1e49)
+
+📌 Dashboard Page: ![dashboard](https://github.com/user-attachments/assets/31b7f2b4-df67-4483-859f-3d6ba3d524e6)
+
+📌 Health Care Page: ![health care](https://github.com/user-attachments/assets/c5e49b79-3fd4-4331-8570-d0b318e0b443)
+
+📌 Fever Details Page: ![fever page](https://github.com/user-attachments/assets/37d8add5-5d24-4f3c-8a1d-22800a6a868c)
+
+📌 Vaccine Page: ![vaccine page](https://github.com/user-attachments/assets/eef00119-2c26-4c07-a84d-67b443d2eb1c)
+
+📌 Guide Page: ![guide page](https://github.com/user-attachments/assets/cab9c451-8541-420c-8484-785c6d5cdb18)
+
+📌 Sleep Music Page: ![sleep music](https://github.com/user-attachments/assets/dd97a81c-31d2-4162-b540-3d38b51a2627)
+
+📌 Baby Game Page: ![baby game](https://github.com/user-attachments/assets/c7708b13-93b4-4e8a-8aa1-b18cc490b1f7)
+
+📌 Food Page: ![food page](https://github.com/user-attachments/assets/87bdbdce-a047-4b7b-8985-a38c4c9b621c)
 
 ## Future Enhancements
 
