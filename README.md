@@ -1,5 +1,12 @@
 # Chaild Care App
 
+## Table of Contents
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Child Care application interface](#child-care-application-interface)
+- [Future Enhancements](#future-enhancements)
+- [Conclusion](#conclusion)
+
 ## Overview
 This project is specially about proper care of children. This project provides different ways and means to take care of their children. This application will also have a section where parents can raise their doubts and get expert advice. This application will help them to take care of their children who are aging from a few days to 10 years.
 
@@ -19,7 +26,7 @@ To create this application, you need to use Android Studio IDE for the platform 
 - **Growth Milestones Tracker:** Keep a log of your child’s key milestones to track their development over time.
 - **Emergency Tips:** Quick access to essential tips for handling common child health emergencies.
 
-## Child Care application interface:
+## Child Care application interface
 
 📌 Welcome Page: ![welcome](https://github.com/user-attachments/assets/789a2775-1455-470c-ade2-6243ac525924)
 
