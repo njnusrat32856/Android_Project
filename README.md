@@ -1,4 +1,4 @@
-# Chaild Care App
+# Child Care App
 
 ## Table of Contents
 - [Overview](#overview)
