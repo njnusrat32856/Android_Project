@@ -31,52 +31,25 @@ To create this application, you need to use Android Studio IDE for the platform 
 
 <img src="https://github.com/user-attachments/assets/b0c7ed12-7962-401e-89cb-14a02ef85362" alt="project-screenshot" width="50" height="50/">
 
-<img src="https://github.com/user-attachments/assets/de3d2311-a745-4cdf-9887-a394312e3370" alt="project-screenshot" width="60" height="50/">
+<img src="https://github.com/user-attachments/assets/de3d2311-a745-4cdf-9887-a394312e3370" alt="project-screenshot" width="70" height="50/">
 
 ## Child Care application interface
 
-<table>
-  <tr>
-    <th>Welcome Page</th>
-    <th>Login Page</th>
-    <th>Register Page</th>
-    <th>Child Age Picker Page</th>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/789a2775-1455-470c-ade2-6243ac525924" alt="project-screenshot" width="230" height="400/"></td>
-    <td><img src="https://github.com/user-attachments/assets/d7d740de-8f0e-4456-937f-da2ffdf483e5" alt="project-screenshot" width="230" height="400/"></td>
-    <td><img src="https://github.com/user-attachments/assets/be796069-e657-45aa-8cb1-e051a059ece7" alt="project-screenshot" width="230" height="400/"></td>
-    <td><img src="https://github.com/user-attachments/assets/d37ee6f5-59ae-4a42-b344-d362a3df1e49" alt="project-screenshot" width="230" height="400/"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>Dashboard Page</th>
-    <th>Health Care Page</th>
-    <th>Fever Details Page</th>
-    <th>Vaccine Page</th>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/31b7f2b4-df67-4483-859f-3d6ba3d524e6" alt="project-screenshot" width="230" height="400/"></td>
-    <td><img src="https://github.com/user-attachments/assets/c5e49b79-3fd4-4331-8570-d0b318e0b443" alt="project-screenshot" width="230" height="400/"></td>
-    <td><img src="https://github.com/user-attachments/assets/37d8add5-5d24-4f3c-8a1d-22800a6a868c" alt="project-screenshot" width="230" height="400/"></td>
-    <td><img src="https://github.com/user-attachments/assets/eef00119-2c26-4c07-a84d-67b443d2eb1c" alt="project-screenshot" width="230" height="400/"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <th>Guide Page</th>
-    <th>Sleep Music Page</th>
-    <th>Baby Game Page</th>
-    <th>Food Page</th>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/cab9c451-8541-420c-8484-785c6d5cdb18" alt="project-screenshot" width="230" height="400/"></td>
-    <td><img src="https://github.com/user-attachments/assets/dd97a81c-31d2-4162-b540-3d38b51a2627" alt="project-screenshot" width="230" height="400/"></td>
-    <td><img src="https://github.com/user-attachments/assets/c7708b13-93b4-4e8a-8aa1-b18cc490b1f7" alt="project-screenshot" width="230" height="400/"></td>
-    <td><img src="https://github.com/user-attachments/assets/87bdbdce-a047-4b7b-8985-a38c4c9b621c" alt="project-screenshot" width="230" height="400/"></td>
-  </tr>
-</table>
+| Welcome Page | Login Page | Register Page |
+| ----- | ----- | ----- |
+| <img src="https://github.com/user-attachments/assets/789a2775-1455-470c-ade2-6243ac525924" alt="project-screenshot" width="230" height="400"> | <img src="https://github.com/user-attachments/assets/d7d740de-8f0e-4456-937f-da2ffdf483e5" alt="project-screenshot" width="230" height="400/"> | <img src="https://github.com/user-attachments/assets/be796069-e657-45aa-8cb1-e051a059ece7" alt="project-screenshot" width="230" height="400/"> |
+
+| Child Age Picker Page | Dashboard Page | Health Care Page |
+| ----- | ----- | ----- |
+| <img src="https://github.com/user-attachments/assets/d37ee6f5-59ae-4a42-b344-d362a3df1e49" alt="project-screenshot" width="230" height="400/"> | <img src="https://github.com/user-attachments/assets/31b7f2b4-df67-4483-859f-3d6ba3d524e6" alt="project-screenshot" width="230" height="400/"> | <img src="https://github.com/user-attachments/assets/c5e49b79-3fd4-4331-8570-d0b318e0b443" alt="project-screenshot" width="230" height="400/"> |
+
+| Fever Details Page | Vaccine Page | Guide Page |
+| ----- | ----- | ----- |
+| <img src="https://github.com/user-attachments/assets/37d8add5-5d24-4f3c-8a1d-22800a6a868c" alt="project-screenshot" width="230" height="400/"> | <img src="https://github.com/user-attachments/assets/eef00119-2c26-4c07-a84d-67b443d2eb1c" alt="project-screenshot" width="230" height="400/"> | <img src="https://github.com/user-attachments/assets/cab9c451-8541-420c-8484-785c6d5cdb18" alt="project-screenshot" width="230" height="400/"> |
+
+| Sleep Music Page | Baby Game Page | Food Page |
+| ----- | ----- | ----- |
+| <img src="https://github.com/user-attachments/assets/dd97a81c-31d2-4162-b540-3d38b51a2627" alt="project-screenshot" width="230" height="400/"> | <img src="https://github.com/user-attachments/assets/c7708b13-93b4-4e8a-8aa1-b18cc490b1f7" alt="project-screenshot" width="230" height="400/"> | <img src="https://github.com/user-attachments/assets/87bdbdce-a047-4b7b-8985-a38c4c9b621c" alt="project-screenshot" width="230" height="400/"> |
 
 ## Future Enhancements
 
